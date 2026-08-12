@@ -35,11 +35,15 @@ docker-compose ps                      → estado de los servicios
 docker system prune  -> limpia contenedores o imagenes no usadas
 docker volume ls       -> lista volumenes (almacenamiento persistente)
 docker network ls       -> lista redes de Docker
+´´´ 
 
 ### Comandos más usados
 docker build -t mi-app .
 docker run mi-app
 docker ps
 docker logs id_contenedor
+<<<<<<< HEAD
 
 ```
+=======
+>>>>>>> 379b8a7cf678e82fca2186f0e8372562eb74072e
