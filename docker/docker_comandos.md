@@ -1,4 +1,4 @@
-### Gestión de imágenes
+``` ### Gestión de imágenes
 
 docker build -t nombre-imagen .        → construye una imagen a partir del Dockerfile (el punto = "usa el Dockerfile de esta carpeta")
 docker images                          → lista todas las imágenes que tienes en local
@@ -41,3 +41,5 @@ docker build -t mi-app .
 docker run mi-app
 docker ps
 docker logs id_contenedor
+
+```

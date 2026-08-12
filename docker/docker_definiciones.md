@@ -1,3 +1,5 @@
+```
+
 IMAGEN         → Plantilla estática, de solo lectura, con todo lo
                  necesario para crear un contenedor.
 
@@ -29,3 +31,6 @@ DOCKER ENGINE  → El motor/software que hace funcionar todo esto en
                  una máquina (es lo que "instalas").
 
 DOCKER HUB     → El registry público más popular, propiedad de Docker.
+
+
+```

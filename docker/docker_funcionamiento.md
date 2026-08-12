@@ -1,3 +1,7 @@
+```
+
+
+
 # DOCKER - Guía completa
 
 ## 1. ¿Qué es Docker?
@@ -263,3 +267,6 @@ de programación real.
 - Cursos en YouTube: "Docker tutorial for beginners"
 - Play with Docker (playground online, sin instalar nada):
   labs.play-with-docker.com
+
+
+  ```
