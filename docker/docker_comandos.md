@@ -1,4 +1,4 @@
-### Gestión de imágenes
+``` ### Gestión de imágenes
 
 docker build -t nombre-imagen .        → construye una imagen a partir del Dockerfile (el punto = "usa el Dockerfile de esta carpeta")
 docker images                          → lista todas las imágenes que tienes en local
@@ -35,6 +35,7 @@ docker-compose ps                      → estado de los servicios
 docker system prune  -> limpia contenedores o imagenes no usadas
 docker volume ls       -> lista volumenes (almacenamiento persistente)
 docker network ls       -> lista redes de Docker
+´´´ 
 
 ### Comandos más usados
 docker build -t mi-app .
