@@ -246,4 +246,20 @@ CASO 4: Microservicios
 └─────────────────────────────────────────────────┘
 ```
 
-¿Quieres que prepare algo parecido para **Airflow** o **Snowflake**, para tener el mismo nivel de detalle en caso de que los directores pregunten?
+DOCKERFILE                          COMANDOS DOCKER (terminal)
+─────────────                       ────────────────────────────
+Sintaxis propia, muy simple,        Se ejecutan en la terminal
+tipo "instrucciones":               normal (cmd, PowerShell,
+                                     bash...), como cualquier
+FROM, RUN, COPY, CMD,               otro comando (ls, cd, git...)
+WORKDIR, ENV, EXPOSE...
+
+Se parece más a un archivo de
+configuración que a un lenguaje
+de programación real. 
+
+- Documentación oficial: docs.docker.com/get-started
+- Docker Curriculum (gratuito, muy práctico): docker-curriculum.com
+- Cursos en YouTube: "Docker tutorial for beginners"
+- Play with Docker (playground online, sin instalar nada):
+  labs.play-with-docker.com
