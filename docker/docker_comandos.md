@@ -45,5 +45,3 @@ docker logs id_contenedor
 <<<<<<< HEAD
 
 ```
-=======
->>>>>>> 379b8a7cf678e82fca2186f0e8372562eb74072e
